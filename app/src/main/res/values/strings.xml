@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Animal_Fact_Jetpack_Compose</string>
+
+    <string name="dolphin_fact">Dolphins deliberately handle pufferfish causing them to release toxins as a defence mechanism. These toxins can be deadly in high doses, but also have a narcotic effect – and are a powerful hallucinogenic, which dolphins appear to enjoy(factanimal.com).</string>
+    <string name="pistol_shrimp_Fact">The Pistol Shrimp is capable of snapping its claw shut so rapidly, that it creates a bubble which collapses to produce a sonic blast. The shock wave can reach 230 decibels, also louder than the sound of a gunshot(factanimal.com).</string>
+    <string name="garden_snail_fact">A common garden snail has 14,000 teeth. Their microscoptic teeth are called radula, and some species actually have over 20,000 teeth(animalfact.com)</string>
+    <string name="giant_pacific_octopus_fact">The Giant Pacific Octopus has 3 hearts, 9 brains and blue blood. They are also able to change their colour and texture to camouflage themselves in a blink of an eye(animalfact.com).</string>
+    <string name="polar_bear_fact">Polar bears have jet black skin under their white fur coats. It helps them absorb heat to keep warm, while the white fur helps provides camouflage in the snowy and icy environment they live(animalfact.com).</string>
+    <string name="japanese_macaques_fact">Japanese Macaques play with snowballs for fun. These snow monkeys have been observed rolling up snowballs, then pushing them down hills just for the heck of it(animalfact.com)</string>
+    <string name="koala_fact">It is so hard to distinguish between the fingerprints of koalas and humans that even under a microscope it is hard to tell. There are even reported cases of a koala’s fingerprints confusing forensics at crime scenes(animalfact.com).</string>
+    <string name="shoebill_stork_fact">The shoebill stork can swallow baby crocodiles whole.</string>
+    <string name="syrian_brown_bear">A syrian brown bear named Wojtek was brought by polish shoulders while in Iran. He was made an officer so that he was allowed rations and eventually was promoted to corporal. He helped out by carrying boxes of ammunition(animalfact.com).</string>
+    <string name="horned_lizard_fact">To scare of predators, this lizard shoots blood out of its eyes(animalfact.com).</string>
+    <string name="animal_fact_placeholder">Animal Fact: %1$s</string>
+    <string name="animal_weight_placeholder">Weight: %1$d pounds</string>
+    <string name="animal_size_placeholder">Size: %1$d feet</string>
+    <string name="animal_habitat_placeholder">Habitat: %1$s</string>
+    <string name="animal_eating_type_placeholder">Eating Type: %1$s</string>
+    <string name="animal_lifespan_placeholder">Lifespan: %1$d</string>
+    <string name="animal_features_placeholder">Features: %1$s, %2$s, %3$s, %4$s</string>
+</resources>
